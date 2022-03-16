@@ -50,7 +50,7 @@ def stream_markup(_, videoid):
             ]
 
         )
-    ]
+    
     return buttons
 
 
